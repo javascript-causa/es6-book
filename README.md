@@ -19,3 +19,19 @@ En este libro, buscamos que desarrolladores con cierta experiencia en el lenguaj
 Se han incluido diferenets proyectos en cada capítulo que permitirán al lector sedimentar lo aprendido en teoría. Además de ellos, cada capítulo se ha diseñado para ser consumido en aproximadamente 60 minutos.
 
 Las versiones de este libro están disponibles en Español e Inglés.
+
+## Lista de temas a tratar
+
+1 - qué es JS: puro JS vs browser feature for JS
+2 - V8, event loop y el API afuera de JS
+3 - Qué es a Closure
+4 - Qué es Babel
+5 - The Arrow Function
+6 - Promises and This
+7 - Let, Var and Const
+8 - Default values
+9 - Spread operators
+10 - Destructuring for Objects and Arrays
+11 - Templates
+12 - Symbols, Iterators and Generators
+13 - Await and Async
