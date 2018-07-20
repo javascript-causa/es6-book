@@ -22,16 +22,16 @@ Las versiones de este libro están disponibles en Español e Inglés.
 
 ## Lista de temas a tratar
 
-1 - qué es JS: puro JS vs browser feature for JS
-2 - V8, event loop y el API afuera de JS
-3 - Qué es a Closure
-4 - Qué es Babel
-5 - The Arrow Function
-6 - Promises and This
-7 - Let, Var and Const
-8 - Default values
-9 - Spread operators
-10 - Destructuring for Objects and Arrays
-11 - Templates
-12 - Symbols, Iterators and Generators
-13 - Await and Async
+- qué es JS: puro JS vs browser feature for JS
+- V8, event loop y el API afuera de JS
+- Qué es a Closure
+- Qué es Babel
+- The Arrow Function
+- Promises and This
+- Let, Var and Const
+- Default values
+- Spread operators
+- Destructuring for Objects and Arrays
+- Templates
+- Symbols, Iterators and Generators
+- Await and Async
